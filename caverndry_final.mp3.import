@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/caverndry_final.mp3-96d00920870146571184f897d1e96df5.mp3str"
+
+[deps]
+
+source_file="res://caverndry_final.mp3"
+dest_files=[ "res://.import/caverndry_final.mp3-96d00920870146571184f897d1e96df5.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
